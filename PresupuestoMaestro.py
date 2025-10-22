@@ -1,13 +1,5 @@
 """
-Presupuesto Maestro - single-file prototype
-Cumple gran parte de la especificación: GUI tkinter, persistencia JSON, calculos con Decimal,
-validaciones, export CSV, logging. Está pensado como punto de partida; puede refactorizarse
-hacia la estructura en paquetes solicitada.
-
-Ejecución: python run.py
-
-Nota: este archivo es un prototipo monolítico para acelerar entrega. Recomiendo separar en
-módulos: models.py, validators.py, persistence.py, gui.py y tests/ como en la especificación.
+EVELYN MONSERRAT VERDIGUEL MONTEMAYOR 2107600
 
 """
 from __future__ import annotations
@@ -525,3 +517,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
